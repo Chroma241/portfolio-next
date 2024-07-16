@@ -1,0 +1,52 @@
+.about{
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    color: #94A3B8;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile_picture{
+    border-radius: 50%;
+}
+
+.full_description{
+
+    .text{
+        width: 90%;
+    }
+
+}
+
+.title{
+    font-size: 2rem;
+}
+
+
+@media only screen and (min-width: 768px) {
+    .about{
+        margin-top: 4rem;
+        display: flex;
+        flex-direction: row;
+        color: #94A3B8;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .profile_picture{
+        border-radius: 50%;
+    }
+    
+    .full_description{
+    
+        .text{
+            width: 90%;
+        }
+    
+    }
+    
+    .title{
+        font-size: 2rem;
+    }
+}

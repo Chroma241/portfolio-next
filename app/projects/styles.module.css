@@ -1,0 +1,16 @@
+.project{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+    
+}
+
+
+.title{
+    color: #E2E8F0;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0;
+}

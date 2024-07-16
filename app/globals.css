@@ -1,0 +1,22 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+body{
+  background: linear-gradient(90deg, #0F172A 0%, #1b2742 100%);
+  height: 100vh;
+}
+
+main{
+  width: 75%;
+  margin: 0 auto;
+}
+
+
+@media only screen and (min-width: 768px) {
+    
+}

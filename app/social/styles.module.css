@@ -1,0 +1,11 @@
+.social_list{
+    padding: 0;
+    display: flex;
+    justify-content: start;
+    list-style-type: none;
+    gap: 20px;
+}
+
+.socialImage{
+    color:azure;
+}
